@@ -1,4 +1,4 @@
-# Get-course
+# Git-course
 
 
 ## Project notes
